@@ -1,0 +1,501 @@
+gender,province,state,country,confirmed_cases,fatalities ,recoveries 
+male,Nairobi,Northern,Egypt,82,34,25
+female,Addis Ababa,Central,Madagascar,45,5,31
+male,Lagos,Central,Guinea-Bissau,61,26,11
+female,Johannesburg,Western,Kenya,60,50,12
+male,Addis Ababa,Eastern,Tanzania,89,86,4
+male,Nairobi,Central,Tunisia,62,78,17
+male,Nairobi,Central,Egypt,4,21,8
+male,Dakar,Central,Libya,42,30,39
+female,Dar es Salaam,Eastern,Burkina Faso,23,97,13
+female,Casablanca,Western,Liberia,79,0,47
+male,Dar es Salaam,Southern,Nigeria,70,84,77
+female,Addis Ababa,Northern,Botswana,95,10,45
+female,Lagos,Northern,Djibouti,85,45,54
+female,Casablanca,Western,Djibouti,41,75,73
+female,Dakar,Northern,Sao Tome and Principe,34,31,30
+female,Lagos,Central,Cote d'Ivoire,73,96,17
+male,Dakar,Western,Kenya,94,100,51
+male,Addis Ababa,Western,Nigeria,91,30,69
+male,Lagos,Southern,Equatorial Guinea,68,90,70
+male,Cairo,Eastern,Tunisia,91,77,8
+male,Accra,Western,Algeria,86,13,23
+female,Casablanca,Western,Sierra Leone,79,53,19
+male,Johannesburg,Western,Guinea-Bissau,38,28,37
+female,Lagos,Eastern,Cameroon,7,90,91
+female,Johannesburg,Central,Ghana,8,87,37
+female,Abidjan,Central,Angola,62,8,42
+male,Abidjan,Central,Congo,9,94,79
+female,Cairo,Eastern,Congo,8,8,96
+female,Cairo,Southern,Cameroon,73,95,72
+male,Dar es Salaam,Northern,Cameroon,85,60,84
+female,Nairobi,Eastern,Eswatini,92,38,29
+male,Abidjan,Eastern,Guinea-Bissau,72,76,59
+male,Johannesburg,Western,Algeria,96,84,25
+male,Abidjan,Southern,Gambia,66,27,46
+male,Johannesburg,Central,Angola,90,88,28
+female,Dakar,Northern,Guinea-Bissau,6,27,6
+female,Cairo,Western,Gabon,5,48,60
+female,Accra,Eastern,Seychelles,97,70,6
+female,Addis Ababa,Central,Mauritius,77,24,17
+female,Johannesburg,Western,Ethiopia,92,75,9
+female,Accra,Western,Burundi,8,71,14
+male,Accra,Eastern,Niger,98,9,30
+female,Cairo,Central,Senegal,26,3,71
+female,Casablanca,Southern,Comoros,10,57,89
+female,Dar es Salaam,Central,Tunisia,73,30,19
+male,Dakar,Central,Comoros,78,5,10
+male,Accra,Northern,Burundi,74,8,79
+female,Abidjan,Eastern,Gambia,29,44,47
+male,Casablanca,Southern,Burkina Faso,34,97,0
+female,Accra,Central,Central African Republic,40,87,44
+male,Johannesburg,Southern,Congo,75,100,16
+female,Addis Ababa,Northern,Comoros,86,66,68
+male,Johannesburg,Southern,Guinea-Bissau,39,25,95
+male,Cairo,Central,Burundi,10,69,26
+female,Casablanca,Southern,Guinea-Bissau,25,7,76
+female,Dakar,Southern,Eswatini,48,9,11
+female,Casablanca,Southern,Seychelles,99,37,90
+female,Cairo,Western,Cabo Verde,14,74,81
+female,Accra,Central,Ghana,36,60,87
+male,Johannesburg,Southern,Lesotho,37,92,46
+male,Casablanca,Central,Togo,33,26,84
+female,Addis Ababa,Western,Mozambique,30,42,89
+male,Cairo,Western,Seychelles,82,36,14
+male,Dakar,Southern,Gambia,52,45,33
+female,Johannesburg,Central,Central African Republic,72,12,17
+female,Addis Ababa,Southern,Libya,12,79,74
+female,Lagos,Central,Botswana,12,56,88
+male,Casablanca,Eastern,Kenya,47,15,81
+female,Casablanca,Northern,Namibia,40,14,94
+female,Casablanca,Central,Cote d'Ivoire,3,59,80
+male,Johannesburg,Northern,Morocco,0,59,44
+male,Cairo,Southern,Sao Tome and Principe,49,1,70
+female,Accra,Southern,South Sudan,82,39,46
+male,Abidjan,Western,Congo,68,97,35
+female,Abidjan,Western,Madagascar,4,70,87
+male,Nairobi,Central,Guinea,8,43,37
+female,Abidjan,Central,Senegal,46,94,10
+male,Johannesburg,Southern,Angola,42,75,51
+male,Dar es Salaam,Northern,Cabo Verde,52,6,46
+male,Dakar,Central,Mauritania,72,42,97
+male,Abidjan,Eastern,Sudan,63,11,88
+female,Johannesburg,Eastern,Malawi,62,71,21
+female,Dakar,Western,Comoros,11,86,94
+male,Nairobi,Southern,Angola,56,36,25
+female,Nairobi,Central,Ethiopia,17,59,5
+female,Dar es Salaam,Central,Sao Tome and Principe,60,23,40
+male,Addis Ababa,Northern,Togo,61,39,45
+male,Addis Ababa,Central,Mozambique,17,48,63
+male,Dakar,Central,Sierra Leone,10,57,72
+male,Dar es Salaam,Eastern,Guinea-Bissau,35,42,41
+female,Lagos,Eastern,South Sudan,93,23,60
+female,Johannesburg,Western,Comoros,50,79,29
+female,Casablanca,Southern,Sierra Leone,55,5,68
+male,Nairobi,Central,Angola,13,57,44
+female,Johannesburg,Northern,Malawi,20,64,97
+female,Dar es Salaam,Central,Rwanda,42,17,61
+female,Dar es Salaam,Southern,Ethiopia,84,75,24
+male,Abidjan,Western,Djibouti,47,92,55
+female,Dar es Salaam,Western,Cote d'Ivoire,49,50,61
+female,Lagos,Northern,Burundi,19,13,91
+female,Addis Ababa,Northern,Mauritania,19,99,44
+female,Accra,Eastern,Lesotho,26,55,40
+male,Johannesburg,Central,Togo,76,93,44
+male,Lagos,Central,Comoros,72,80,89
+female,Cairo,Northern,South Africa,76,85,28
+male,Johannesburg,Central,Burundi,13,98,53
+female,Dakar,Central,Zambia,40,16,36
+male,Cairo,Southern,Somalia,71,33,81
+male,Dar es Salaam,Western,Equatorial Guinea,99,97,99
+female,Abidjan,Western,Gambia,34,97,76
+female,Casablanca,Eastern,Niger,59,81,50
+male,Lagos,Northern,Madagascar,6,48,71
+female,Nairobi,Central,Mali,7,79,72
+male,Dar es Salaam,Eastern,Burundi,45,41,53
+male,Casablanca,Western,Algeria,3,55,84
+female,Dakar,Eastern,Burundi,40,66,50
+male,Nairobi,Western,Libya,29,22,3
+male,Casablanca,Western,Sudan,38,9,98
+male,Accra,Central,Mauritania,0,29,95
+female,Cairo,Northern,Cabo Verde,69,75,55
+male,Addis Ababa,Central,Angola,18,25,91
+female,Casablanca,Northern,Mauritius,17,72,82
+male,Dakar,Central,Kenya,24,40,57
+male,Addis Ababa,Central,Malawi,82,3,15
+male,Abidjan,Western,Comoros,63,68,27
+female,Johannesburg,Western,Chad,26,34,31
+female,Nairobi,Southern,Cote d'Ivoire,75,18,7
+female,Lagos,Central,Zimbabwe,76,1,94
+male,Nairobi,Northern,Gabon,13,54,41
+female,Addis Ababa,Northern,Mauritius,76,46,45
+female,Accra,Eastern,Rwanda,10,76,100
+male,Abidjan,Western,Rwanda,23,78,87
+female,Dakar,Central,Lesotho,91,92,90
+male,Cairo,Northern,Ghana,59,6,1
+male,Accra,Northern,Mauritius,89,48,33
+female,Dakar,Southern,Ethiopia,68,32,45
+male,Abidjan,Central,Kenya,11,91,11
+female,Nairobi,Northern,Chad,69,54,30
+male,Accra,Eastern,Senegal,90,57,0
+female,Accra,Eastern,Burundi,70,83,57
+female,Casablanca,Central,Burkina Faso,100,17,68
+male,Casablanca,Eastern,Sudan,7,32,54
+male,Accra,Eastern,Cabo Verde,63,3,21
+male,Addis Ababa,Eastern,Guinea,20,57,93
+female,Lagos,Southern,Sao Tome and Principe,74,90,22
+male,Casablanca,Western,South Sudan,53,55,63
+female,Cairo,Western,Central African Republic,58,23,18
+male,Accra,Southern,Cabo Verde,44,9,36
+female,Addis Ababa,Central,Congo,30,6,53
+female,Casablanca,Eastern,Mauritius,23,5,12
+male,Cairo,Eastern,Cote d'Ivoire,22,72,2
+female,Addis Ababa,Northern,South Africa,67,24,91
+male,Dar es Salaam,Northern,Comoros,40,57,12
+female,Lagos,Northern,Tanzania,88,96,36
+female,Johannesburg,Southern,Chad,15,8,94
+male,Cairo,Eastern,Lesotho,36,96,25
+female,Lagos,Southern,Libya,90,79,7
+male,Johannesburg,Southern,Algeria,38,30,30
+male,Dar es Salaam,Southern,Nigeria,22,1,94
+female,Accra,Southern,Burkina Faso,29,39,41
+male,Nairobi,Central,Somalia,83,42,77
+female,Dar es Salaam,Central,Uganda,68,68,5
+male,Addis Ababa,Northern,Rwanda,31,8,98
+female,Accra,Southern,Comoros,74,34,39
+male,Lagos,Eastern,Togo,15,50,84
+female,Dakar,Eastern,South Africa,50,86,1
+female,Nairobi,Central,Mozambique,6,63,75
+female,Cairo,Southern,Central African Republic,94,55,27
+male,Nairobi,Eastern,Djibouti,78,84,99
+male,Dar es Salaam,Northern,Cabo Verde,47,79,5
+female,Johannesburg,Western,Djibouti,24,93,38
+female,Johannesburg,Eastern,Central African Republic,39,29,83
+male,Cairo,Northern,Angola,24,73,99
+female,Abidjan,Western,Uganda,9,56,48
+male,Dakar,Western,Burundi,77,47,41
+male,Abidjan,Northern,Sudan,77,41,97
+male,Cairo,Northern,Ghana,67,39,21
+female,Casablanca,Western,Burkina Faso,36,95,53
+female,Lagos,Eastern,Zimbabwe,57,54,43
+female,Dar es Salaam,Eastern,Ethiopia,49,75,89
+female,Dakar,Southern,Nigeria,92,95,5
+female,Johannesburg,Western,Guinea,38,92,9
+female,Abidjan,Western,Cameroon,56,18,94
+male,Dar es Salaam,Northern,Zambia,61,61,35
+male,Lagos,Northern,Malawi,94,71,24
+male,Dar es Salaam,Eastern,Chad,91,59,99
+male,Nairobi,Eastern,Morocco,69,6,47
+male,Lagos,Western,Central African Republic,41,39,26
+male,Nairobi,Eastern,Benin,14,48,69
+male,Dar es Salaam,Eastern,Libya,52,45,61
+male,Lagos,Western,Sudan,56,59,32
+female,Addis Ababa,Northern,Senegal,68,52,36
+male,Cairo,Central,Rwanda,10,43,48
+male,Cairo,Eastern,Benin,31,46,39
+female,Dar es Salaam,Southern,Comoros,41,24,84
+female,Accra,Northern,Mauritania,92,78,52
+male,Dakar,Western,Ethiopia,46,66,49
+female,Accra,Eastern,Gambia,84,53,83
+female,Dakar,Eastern,Algeria,11,71,29
+female,Accra,Western,Sierra Leone,19,25,10
+female,Lagos,Eastern,Lesotho,63,22,11
+male,Johannesburg,Central,Egypt,35,98,77
+male,Abidjan,Eastern,Angola,100,92,1
+female,Nairobi,Northern,Angola,10,36,57
+male,Casablanca,Southern,Guinea-Bissau,73,85,33
+female,Nairobi,Northern,Tanzania,26,99,46
+female,Accra,Central,Malawi,48,28,50
+male,Nairobi,Eastern,Botswana,74,58,42
+female,Abidjan,Western,Niger,43,99,13
+male,Addis Ababa,Western,Chad,23,20,93
+male,Casablanca,Northern,Eswatini,69,5,33
+male,Dar es Salaam,Southern,Benin,44,69,83
+male,Nairobi,Southern,Eritrea,35,3,67
+female,Dar es Salaam,Western,Burundi,5,8,78
+male,Cairo,Western,Libya,34,17,90
+female,Accra,Central,Congo,74,2,91
+male,Casablanca,Western,Mali,81,32,20
+female,Dakar,Central,Burkina Faso,89,50,50
+male,Cairo,Eastern,Madagascar,39,26,96
+male,Abidjan,Southern,Sudan,6,48,73
+female,Cairo,Southern,Gabon,84,19,83
+male,Dar es Salaam,Southern,Angola,65,63,9
+female,Cairo,Western,Seychelles,97,57,50
+male,Lagos,Northern,Nigeria,50,81,89
+female,Cairo,Southern,South Sudan,58,20,55
+male,Nairobi,Western,Guinea,64,40,7
+female,Abidjan,Northern,Guinea,65,21,31
+male,Casablanca,Central,Ethiopia,59,29,42
+male,Johannesburg,Eastern,Mauritania,71,95,74
+male,Casablanca,Southern,Cote d'Ivoire,7,90,35
+female,Johannesburg,Southern,Sudan,95,73,3
+male,Johannesburg,Northern,Sao Tome and Principe,21,15,35
+female,Johannesburg,Central,Malawi,68,28,1
+male,Johannesburg,Northern,Djibouti,64,71,70
+female,Dakar,Central,Djibouti,71,96,93
+female,Casablanca,Central,Zambia,58,32,23
+female,Dar es Salaam,Southern,Lesotho,59,84,59
+male,Lagos,Northern,Sudan,1,71,87
+male,Dar es Salaam,Northern,Chad,7,69,27
+female,Abidjan,Northern,Congo,12,41,83
+male,Johannesburg,Western,Morocco,1,90,32
+male,Casablanca,Southern,Congo,30,94,77
+male,Nairobi,Southern,Madagascar,61,15,32
+female,Casablanca,Northern,Mozambique,54,98,51
+male,Nairobi,Eastern,Eswatini,24,88,62
+male,Johannesburg,Eastern,Congo,37,19,54
+female,Cairo,Eastern,Sudan,57,42,47
+female,Dakar,Eastern,Senegal,52,21,61
+male,Abidjan,Eastern,Mali,39,96,51
+female,Casablanca,Central,Somalia,31,67,16
+male,Lagos,Northern,Angola,82,31,10
+female,Dakar,Northern,Botswana,12,82,45
+female,Accra,Central,Ethiopia,55,93,40
+female,Nairobi,Eastern,Namibia,72,69,71
+female,Casablanca,Southern,Angola,28,8,68
+female,Cairo,Eastern,Seychelles,80,53,56
+male,Nairobi,Southern,Mali,46,95,54
+female,Cairo,Western,Namibia,5,43,46
+female,Abidjan,Central,South Sudan,75,56,50
+female,Nairobi,Central,Seychelles,69,22,27
+female,Abidjan,Central,Libya,14,92,91
+female,Dar es Salaam,Northern,Mauritius,17,85,1
+male,Accra,Western,Eritrea,62,13,58
+female,Johannesburg,Central,Ethiopia,89,70,60
+male,Accra,Central,Malawi,42,22,90
+female,Lagos,Western,Botswana,28,50,78
+female,Johannesburg,Eastern,Ethiopia,5,28,67
+male,Addis Ababa,Western,Mozambique,10,18,70
+male,Lagos,Central,Senegal,78,87,40
+female,Cairo,Northern,Chad,48,88,94
+male,Nairobi,Eastern,Kenya,66,4,25
+male,Dar es Salaam,Northern,Ghana,43,57,52
+female,Casablanca,Northern,South Africa,38,94,5
+female,Accra,Central,Madagascar,30,29,4
+male,Nairobi,Central,Cote d'Ivoire,30,39,72
+female,Dar es Salaam,Southern,Malawi,32,89,57
+female,Dar es Salaam,Northern,Eswatini,93,78,77
+female,Nairobi,Northern,Djibouti,79,15,70
+female,Accra,Eastern,Ghana,47,47,62
+female,Accra,Southern,Guinea,20,33,74
+male,Nairobi,Central,Zambia,23,35,9
+female,Lagos,Western,Gabon,73,42,22
+female,Nairobi,Western,Gambia,81,60,80
+male,Dar es Salaam,Eastern,Tunisia,16,76,34
+female,Addis Ababa,Western,Egypt,62,71,26
+male,Dar es Salaam,Western,Guinea-Bissau,77,13,99
+male,Dar es Salaam,Southern,Equatorial Guinea,43,24,10
+female,Addis Ababa,Southern,Mauritania,49,82,22
+female,Accra,Southern,Libya,72,43,14
+female,Dar es Salaam,Northern,Seychelles,65,86,89
+male,Johannesburg,Northern,Uganda,63,38,30
+male,Cairo,Northern,Namibia,81,70,66
+male,Accra,Eastern,Eswatini,17,94,44
+male,Lagos,Southern,Sudan,92,82,25
+male,Casablanca,Southern,Niger,56,67,47
+female,Casablanca,Western,Lesotho,100,54,69
+male,Lagos,Southern,Ethiopia,48,78,77
+female,Addis Ababa,Southern,Botswana,31,97,53
+female,Lagos,Eastern,Sudan,49,86,11
+female,Nairobi,Central,Angola,76,33,96
+male,Cairo,Southern,Congo,8,23,31
+male,Dar es Salaam,Eastern,Eritrea,94,96,86
+female,Dakar,Western,Gambia,48,5,40
+female,Addis Ababa,Western,Liberia,88,9,73
+male,Johannesburg,Southern,Tanzania,1,56,6
+male,Johannesburg,Eastern,Angola,43,73,34
+male,Lagos,Western,Uganda,35,18,35
+male,Addis Ababa,Northern,Comoros,27,53,64
+female,Dakar,Central,Gabon,57,81,47
+male,Casablanca,Southern,Burundi,92,66,50
+male,Accra,Northern,Morocco,50,12,18
+male,Accra,Eastern,Chad,76,60,9
+male,Addis Ababa,Central,Sudan,69,85,100
+female,Accra,Central,Tunisia,82,9,7
+male,Johannesburg,Central,Mozambique,28,37,87
+female,Cairo,Eastern,Cote d'Ivoire,39,67,23
+male,Abidjan,Central,Benin,69,48,93
+female,Addis Ababa,Eastern,Eritrea,81,37,64
+male,Lagos,Southern,Mozambique,67,49,40
+male,Dar es Salaam,Southern,Equatorial Guinea,5,15,67
+male,Lagos,Western,Guinea,23,25,54
+female,Addis Ababa,Western,Algeria,33,64,82
+female,Cairo,Northern,Niger,56,31,80
+female,Dar es Salaam,Northern,Tanzania,36,28,22
+female,Abidjan,Southern,Burkina Faso,13,3,65
+female,Addis Ababa,Northern,Angola,48,9,40
+female,Johannesburg,Western,Algeria,78,66,5
+male,Casablanca,Eastern,Sierra Leone,10,65,94
+female,Dakar,Eastern,Mauritania,18,23,1
+male,Cairo,Central,South Sudan,80,92,32
+male,Dar es Salaam,Southern,Mauritania,14,33,81
+female,Dar es Salaam,Eastern,South Africa,34,44,6
+female,Lagos,Western,Gambia,86,39,40
+female,Addis Ababa,Southern,Algeria,88,12,8
+male,Nairobi,Western,Cameroon,66,5,95
+male,Nairobi,Northern,Equatorial Guinea,42,17,91
+female,Dakar,Western,Tunisia,95,10,96
+male,Abidjan,Eastern,Madagascar,44,7,93
+male,Accra,Central,South Sudan,70,48,78
+male,Johannesburg,Central,Djibouti,26,60,13
+male,Accra,Central,Cote d'Ivoire,69,16,59
+female,Nairobi,Eastern,Burkina Faso,40,92,35
+male,Cairo,Southern,Ethiopia,81,59,55
+female,Casablanca,Western,Cote d'Ivoire,58,99,56
+female,Cairo,Southern,Mauritania,69,41,1
+female,Dakar,Central,Morocco,73,65,18
+female,Dakar,Eastern,Guinea-Bissau,83,51,49
+male,Addis Ababa,Central,Burkina Faso,72,73,40
+male,Nairobi,Western,Benin,19,10,14
+male,Dar es Salaam,Eastern,Malawi,46,82,50
+female,Dar es Salaam,Central,Algeria,23,46,13
+female,Addis Ababa,Central,Rwanda,35,18,75
+female,Nairobi,Central,Egypt,14,36,32
+male,Abidjan,Southern,Eritrea,25,96,42
+female,Dar es Salaam,Northern,Nigeria,27,73,79
+male,Accra,Southern,Namibia,13,37,10
+male,Accra,Southern,Tanzania,63,28,65
+male,Casablanca,Western,Rwanda,98,24,83
+male,Accra,Northern,Algeria,2,75,84
+male,Lagos,Western,Malawi,47,73,70
+female,Dakar,Southern,Guinea,28,81,85
+male,Accra,Western,Cameroon,19,43,50
+female,Casablanca,Western,Seychelles,53,73,57
+male,Abidjan,Central,Burundi,26,29,57
+female,Abidjan,Northern,Zimbabwe,68,84,17
+female,Addis Ababa,Southern,Libya,88,56,74
+female,Dakar,Northern,Eritrea,49,59,34
+male,Johannesburg,Southern,Benin,19,41,5
+female,Lagos,Eastern,Eswatini,13,7,92
+female,Johannesburg,Northern,Sierra Leone,28,24,100
+male,Accra,Central,Eswatini,9,82,66
+male,Dakar,Western,Zambia,29,54,52
+female,Johannesburg,Northern,Togo,27,52,68
+female,Addis Ababa,Central,South Sudan,93,30,27
+male,Addis Ababa,Eastern,South Africa,100,48,11
+female,Lagos,Central,Nigeria,73,37,90
+female,Dakar,Western,Sudan,86,19,72
+male,Lagos,Southern,Cabo Verde,15,51,2
+male,Dakar,Eastern,Eritrea,11,25,21
+male,Casablanca,Central,Libya,99,76,76
+female,Dakar,Southern,Egypt,71,69,84
+male,Accra,Southern,Togo,68,32,97
+female,Johannesburg,Southern,Senegal,100,97,42
+male,Accra,Southern,Rwanda,54,90,31
+female,Abidjan,Central,Niger,2,84,86
+female,Lagos,Western,Malawi,36,69,87
+female,Lagos,Eastern,Benin,10,15,96
+male,Nairobi,Eastern,Somalia,61,69,27
+female,Casablanca,Central,Egypt,15,60,46
+male,Lagos,Northern,Cote d'Ivoire,79,74,49
+female,Addis Ababa,Southern,Comoros,100,17,50
+female,Johannesburg,Central,Ethiopia,46,74,38
+female,Addis Ababa,Central,Libya,53,47,56
+male,Lagos,Northern,Tunisia,5,69,15
+female,Addis Ababa,Central,Cote d'Ivoire,65,63,73
+female,Lagos,Central,Ethiopia,34,85,57
+female,Nairobi,Western,Tanzania,91,12,2
+male,Cairo,Southern,Seychelles,78,47,84
+male,Abidjan,Western,Zimbabwe,58,72,19
+female,Lagos,Western,Comoros,92,72,100
+female,Dar es Salaam,Southern,Comoros,84,46,71
+female,Nairobi,Eastern,Sao Tome and Principe,68,46,96
+male,Johannesburg,Central,Egypt,23,69,37
+female,Lagos,Eastern,Congo,97,94,22
+female,Cairo,Eastern,Gabon,92,9,32
+male,Dar es Salaam,Southern,South Sudan,27,16,66
+female,Casablanca,Eastern,Djibouti,99,89,85
+male,Dakar,Western,Guinea-Bissau,7,42,40
+male,Dakar,Central,Mauritius,67,19,14
+female,Nairobi,Western,Tunisia,86,41,46
+male,Casablanca,Eastern,Eritrea,52,8,72
+female,Nairobi,Southern,Seychelles,96,45,31
+male,Addis Ababa,Western,Guinea,56,4,27
+female,Cairo,Northern,Ghana,14,65,74
+female,Dar es Salaam,Northern,Guinea-Bissau,83,93,47
+male,Dakar,Southern,Angola,73,86,21
+female,Lagos,Central,Guinea,8,65,9
+male,Dar es Salaam,Northern,Lesotho,36,53,11
+male,Casablanca,Western,South Africa,41,14,62
+male,Accra,Central,Malawi,11,32,28
+male,Dar es Salaam,Western,Niger,16,66,67
+male,Casablanca,Northern,Burkina Faso,54,12,77
+female,Accra,Eastern,Egypt,77,22,94
+male,Cairo,Eastern,Chad,29,91,4
+male,Accra,Southern,Sudan,41,43,62
+male,Dar es Salaam,Eastern,Mauritius,92,12,51
+male,Johannesburg,Northern,Nigeria,99,73,100
+male,Accra,Northern,Ghana,8,86,6
+female,Casablanca,Central,Malawi,37,88,27
+female,Johannesburg,Northern,Libya,35,91,35
+female,Lagos,Northern,Madagascar,32,45,99
+male,Dakar,Central,Zimbabwe,93,15,83
+female,Nairobi,Central,Angola,45,93,99
+female,Nairobi,Southern,Seychelles,48,25,16
+male,Addis Ababa,Eastern,Somalia,14,48,81
+male,Dakar,Southern,Cameroon,6,95,4
+female,Johannesburg,Southern,Burkina Faso,4,11,30
+male,Nairobi,Southern,Djibouti,64,25,96
+female,Nairobi,Eastern,Sudan,67,71,27
+female,Dar es Salaam,Western,Chad,47,46,94
+female,Lagos,Southern,Central African Republic,49,39,22
+male,Accra,Western,Comoros,21,92,75
+female,Lagos,Northern,Algeria,53,22,15
+male,Dakar,Northern,Algeria,55,100,4
+female,Dar es Salaam,Eastern,Algeria,35,0,70
+male,Nairobi,Western,Cameroon,68,73,31
+male,Addis Ababa,Central,Tanzania,80,93,88
+male,Accra,Eastern,Sierra Leone,81,19,40
+female,Casablanca,Central,Sudan,9,33,23
+female,Cairo,Northern,Uganda,31,11,19
+female,Nairobi,Eastern,Zimbabwe,93,57,79
+male,Lagos,Northern,Seychelles,59,76,75
+female,Dar es Salaam,Southern,Guinea-Bissau,25,72,100
+female,Lagos,Eastern,Gambia,62,66,42
+female,Nairobi,Eastern,Nigeria,36,64,86
+male,Accra,Northern,Benin,41,33,52
+female,Addis Ababa,Eastern,Zambia,11,2,27
+male,Abidjan,Eastern,Sao Tome and Principe,22,88,67
+male,Abidjan,Northern,Mauritius,49,28,80
+female,Cairo,Eastern,Mali,51,22,22
+female,Accra,Southern,Libya,75,13,26
+male,Lagos,Southern,Cote d'Ivoire,81,10,52
+male,Johannesburg,Northern,Mauritius,78,14,70
+female,Casablanca,Eastern,Togo,37,29,50
+female,Casablanca,Eastern,Burkina Faso,59,28,36
+female,Johannesburg,Northern,Ethiopia,73,3,50
+female,Cairo,Western,Sierra Leone,14,83,84
+female,Dar es Salaam,Central,Madagascar,3,97,67
+female,Nairobi,Southern,Libya,89,48,98
+male,Nairobi,Southern,Eswatini,76,47,70
+female,Lagos,Northern,Burkina Faso,90,8,52
+female,Abidjan,Southern,Comoros,62,73,48
+female,Accra,Eastern,Eritrea,48,19,20
+female,Abidjan,Northern,Djibouti,24,22,24
+female,Accra,Central,Sudan,61,85,9
+female,Dakar,Central,Burkina Faso,100,40,78
+female,Accra,Western,South Africa,73,25,38
+female,Nairobi,Western,South Africa,31,43,47
+male,Casablanca,Southern,Uganda,47,6,75
+female,Accra,Northern,Central African Republic,1,69,55
+male,Abidjan,Eastern,Mozambique,7,18,6
+female,Abidjan,Southern,Djibouti,76,79,90
+male,Abidjan,Northern,Benin,56,73,19
+male,Johannesburg,Central,Libya,42,47,49
+female,Casablanca,Western,Rwanda,55,49,95
+female,Casablanca,Western,Senegal,95,95,6
+female,Nairobi,Western,Tanzania,49,62,4
+male,Dakar,Southern,Kenya,55,28,63
+male,Accra,Southern,Algeria,99,65,82
+male,Lagos,Eastern,Guinea,79,34,41
+male,Accra,Central,Madagascar,26,4,12
+female,Accra,Eastern,Namibia,33,63,53
+male,Dakar,Western,Tanzania,51,78,46
+male,Casablanca,Western,Tunisia,25,72,25
+male,Nairobi,Eastern,Benin,83,51,49
+female,Addis Ababa,Western,Botswana,75,4,54
+male,Abidjan,Northern,Togo,58,46,19
+female,Dakar,Eastern,Nigeria,31,20,6
+male,Dar es Salaam,Eastern,Tunisia,72,65,59
+male,Cairo,Central,Botswana,74,33,33
